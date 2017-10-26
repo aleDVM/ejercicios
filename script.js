@@ -50,7 +50,7 @@
 	"title":"Illo est ratione doloremque quia maiores aut",
 	}];
 
-	for (var i = 0; i< asdf.length - 1;  i++) {
+	for (var i = 0; i< asdf.length;  i++) {
 		var completed = asdf[i].completed;
 		if (completed == false){
 			var nombre = asdf[i].title;
